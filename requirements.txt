@@ -5,7 +5,7 @@ streamlit==1.39.0
 langchain==0.3.7
 langchain-core==0.3.15
 langgraph==0.0.69
-
+langchain_core
 # --- NVIDIA AI Endpoints Support ---
 langchain-nvidia-ai-endpoints==0.3.3
 
