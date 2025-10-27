@@ -1,5 +1,13 @@
-streamlit
-langchain>=0.2.0
-langchain-core>=0.2.0
-langgraph>=0.0.50
-langchain-nvidia-ai-endpoints
+# --- Core App ---
+streamlit==1.39.0
+
+# --- LangChain Ecosystem ---
+langchain==0.3.7
+langchain-core==0.3.15
+langgraph==0.0.69
+
+# --- NVIDIA AI Endpoints Support ---
+langchain-nvidia-ai-endpoints==0.3.3
+
+# --- Utilities (optional but recommended) ---
+typing-extensions==4.12.2
